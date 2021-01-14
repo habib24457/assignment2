@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(0deg, #ffffff 75%, #faf6d7 25%);
+    
+}
+
+.navbar-text-design{
+    text-decoration: none;
+    color:black;
+    
+}
+
+.b-design{
+
+    background-color: rgb(166, 189, 72);
+    color: white;
+}
+
+.make-space{
+    margin-top: 200px;
+}
+
